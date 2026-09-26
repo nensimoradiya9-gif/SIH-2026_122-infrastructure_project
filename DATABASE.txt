@@ -1,0 +1,1 @@
+Infra-Pulse uses SQLite. Database file: data/infrapulse.sqlite. No PostgreSQL or Docker is required.

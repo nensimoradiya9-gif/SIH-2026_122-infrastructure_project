@@ -1,0 +1,12 @@
+{
+ "note":"No demo login is created. This file only contains optional project/activity seed data used after a real user registers.",
+ "projects":[
+  {"name":"Assam Pipeline Expansion","client":"Oil India Limited","location":"Duliajan, Assam","state":"Assam","planned_progress":62,"actual_progress":55,"status":"In Progress"},
+  {"name":"Jorhat Compressor Station","client":"Oil India Limited","location":"Jorhat, Assam","state":"Assam","planned_progress":44,"actual_progress":36,"status":"In Progress"}
+ ],
+ "activities":[
+  {"code":"PIPE-1056","name":"Excavation Section A","planned_progress":100,"actual_progress":96,"status":"In Progress"},
+  {"code":"CIV-2041","name":"Foundation Concrete","planned_progress":62,"actual_progress":38,"status":"Delayed"},
+  {"code":"PIPE-3056","name":"Pipeline Laying","planned_progress":55,"actual_progress":45,"status":"In Progress"}
+ ]
+}
